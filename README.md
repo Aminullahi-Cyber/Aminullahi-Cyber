@@ -17,7 +17,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Network Traffic Monitoring and Packet Analysis | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | SOAR + EDR Automation                        | SOC Automation Lab|
-| Network Threat Detection and Prevention       | SOC Automation Lab|
+| Network Threat Detection and Prevention with Suricata       | <a href="https://github.com/Aminullahi-Cyber/Suricata-IDS-IDP-Lab/tree/main">Suricata IDS-IDP Lab</a>|
 | Malware Analysis                           | SOC Automation Lab|
 | Active Directory and Automated Threat Response   | SOC Automation Lab|
 | Web Investigation and Incidence Response     | SOC Automation Lab|
@@ -74,4 +74,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/Aminullahi-Cyber/Log-Analysis-Using-Splunk/tree/main">SSH Log Analysis Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Aminullahi-Cyber/Suricata-IDS-IDP-Lab/tree/main">Suricata IDS-IDP Lab</a>
