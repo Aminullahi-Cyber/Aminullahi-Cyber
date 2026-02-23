@@ -22,7 +22,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Active Directory and Automated Threat Response   | SOC Automation Lab|
 | Web Investigation and Incidence Response     | SOC Automation Lab|
 | Investigating Network Intrusion and Reverse Shell Attack      | SOC Automation Lab|
-| SSH Log Analysis Using Splunk               | SOC Automation Lab|
+| SSH Log Analysis Using Splunk               | <a href="https://github.com/Aminullahi-Cyber/Log-Analysis-Using-Splunk/tree/main">SSH Log Analysis Lab</a>|
 | Phishing Email Analysis                     | SOC Automation Lab|
 | Honeypot Installation and Configuration     | SOC Automation Lab|
 
@@ -73,20 +73,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project## Hi there 👋
-
-<!--
-**Aminullahi-Cyber/Aminullahi-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://github.com/Aminullahi-Cyber/Log-Analysis-Using-Splunk/tree/main">SSH Log Analysis Lab</a>
+- SOC Automation Project
