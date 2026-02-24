@@ -14,7 +14,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Packet Analysis | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Packet Analysis | <a href="https://github.com/Aminullahi-Cyber/Network-Analysis-With-Wireshark/tree/main">Network Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Aminullahi-Cyber/ACTIVE-DIRECTORY-LAB/tree/main">ACTIVE DIRECTORY Lab</a>|
 | SOAR + EDR Automation                        | <a href="https://github.com/Aminullahi-Cyber/SOAR-EDR-PROJECT/tree/main">SOAR-EDR AUTOMATION Lab</a>|
 | Network Threat Detection and Prevention with Suricata       | <a href="https://github.com/Aminullahi-Cyber/Suricata-IDS-IDP-Lab/tree/main">Suricata IDS-IDP Lab</a>|
@@ -77,3 +77,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - <a href="https://github.com/Aminullahi-Cyber/Suricata-IDS-IDP-Lab/tree/main">Suricata IDS-IDP Lab</a>
 - <a href="https://github.com/Aminullahi-Cyber/SOAR-EDR-PROJECT/tree/main">SOAR-EDR AUTOMATION Lab</a>
 - <a href="https://github.com/Aminullahi-Cyber/ACTIVE-DIRECTORY-LAB/tree/main">ACTIVE DIRECTORY Lab</a>
+- <a href="https://github.com/Aminullahi-Cyber/Network-Analysis-With-Wireshark/tree/main">Network Analysis Lab</a>
