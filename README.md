@@ -13,18 +13,11 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Packet Analysis | <a href="https://github.com/Aminullahi-Cyber/Network-Analysis-With-Wireshark/tree/main">Network Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Aminullahi-Cyber/ACTIVE-DIRECTORY-LAB/tree/main">ACTIVE DIRECTORY Lab</a>|
 | SOAR + EDR Automation                        | <a href="https://github.com/Aminullahi-Cyber/SOAR-EDR-PROJECT/tree/main">SOAR-EDR AUTOMATION Lab</a>|
 | Network Threat Detection and Prevention with Suricata       | <a href="https://github.com/Aminullahi-Cyber/Suricata-IDS-IDP-Lab/tree/main">Suricata IDS-IDP Lab</a>|
-| Malware Analysis                           | SOC Automation Lab|
-| Active Directory and Automated Threat Response   | SOC Automation Lab|
-| Web Investigation and Incidence Response     | SOC Automation Lab|
-| Investigating Network Intrusion and Reverse Shell Attack      | SOC Automation Lab|
 | SSH Log Analysis Using Splunk               | <a href="https://github.com/Aminullahi-Cyber/Log-Analysis-Using-Splunk/tree/main">SSH Log Analysis Lab</a>|
-| Phishing Email Analysis                     | SOC Automation Lab|
-| Honeypot Installation and Configuration     | SOC Automation Lab|
 
 ## Tools
 
